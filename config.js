@@ -7,7 +7,9 @@ var config = {
         "Hôm nay 7/9, sinh nhật 2 cô bé của team là Shark và Mei",  // 同上...
         "Cảm ơn 2 em vì đã gắn bó với team, anh chúc 2 đứa có một ngày sinh nhật thật vui nhé",
         "Anh đã nói mọi người gửi lời chúc mừng tới hai tụi em",
+	"Cho a xin lỗi vì không kịp thời gian để làm riêng cho từng đứa",
         "Ai thích câu nào thì nhận câu đó nha :)))",
+	"À, nhớ iu thương và bênh vực anh nhiều hơn nhé ;)",
         "Sinh nhật vui vẻeee 🎉 chúc hai bồ luôn đạt được những gì mình muốn - fairy",
         "Chúc 2 chị sinh nhật vui vẻ, ngày càng xinh hơn, hát hay hơn để hát cho em nghe ké 😊😊😊 - Kikumaru",
         "Chúc bé Shark tuổi mới bớt cục súc hơn. Học giỏi và mau lớn. Chúc Mei sinh nhật vui vẻ học giỏi và cute hơn - Tiếu",

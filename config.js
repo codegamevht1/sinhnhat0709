@@ -19,7 +19,8 @@ var config = {
 	"2 bạn gái cute sinh nhật vui vẻ nhé ^^ - Neji",
 	"Chúc 2 em sinh nhật vui vẻ ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️- Mo",
 	"Chúc bé Shark và Mei thêm tuổi mới càng ngày càng dễ thương, học thật giỏi, chơi minigame team mình thua thật nhiều để bị dare show mặt :> - Ẩn danh",
-	"Chúc mừng sinh nhật chị phó boss và chị trans anh nhà mình nhó, chúc 2 chị tuổi mới tươi như hoa thiên lý, khỏe như đá kim cương, sức mạnh rắn phi thường, vượt qua được mọi khó khăn vất vả này :33 (có đờ ra ma nhớ kể để em thanh lọc phổi nhó 🙆‍♀️) - Ao",
+	"Chúc mừng sinh nhật chị phó boss và chị trans anh nhà mình nhó, chúc 2 chị tuổi mới tươi như hoa thiên lý, khỏe như đá kim cương, sức mạnh rắn phi thường...",
+	"vượt qua được mọi khó khăn vất vả này :33 (có đờ ra ma nhớ kể để em thanh lọc phổi nhó 🙆‍♀️) - Ao",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式

@@ -21,6 +21,8 @@ var config = {
 	"Chúc bé Shark và Mei thêm tuổi mới càng ngày càng dễ thương, học thật giỏi, chơi minigame team mình thua thật nhiều để bị dare show mặt :> - Ẩn danh",
 	"Chúc mừng sinh nhật chị phó boss và chị trans anh nhà mình nhó, chúc 2 chị tuổi mới tươi như hoa thiên lý, khỏe như đá kim cương, sức mạnh rắn phi thường...",
 	"vượt qua được mọi khó khăn vất vả này :33 (có đờ ra ma nhớ kể để em thanh lọc phổi nhó 🙆‍♀️) - Ao",
+	"HAPPY BIRTHDAY Mei và Shark!! 🎂🍰🥧🍫🍬🎉🎊 Chúc Mei và Shark ngày càng xinh gái, học giỏi và hoàn thành được nhiều mục tiêu cũng như dự định của bản thân. Sau này có tìm được ny hay không, không sao nè, quay về yêu Ying nha nha
+Love all ❤️❤️❤️",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
